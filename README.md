@@ -10,9 +10,8 @@ Using the concepts I have learned to create a README Generator tool.
 
 
 
-* Walkthrough video: https://watch.screencastify.com/v/jycCdXqslGgzr2rYVsAU
-![image](https://user-images.githubusercontent.com/86656625/222924801-4b6263e9-343e-47a4-852f-5bf36ee0f853.png)
-
+* Walkthrough video URL: https://watch.screencastify.com/v/jycCdXqslGgzr2rYVsAU
+* Walkthrough video QR code: ![image](https://user-images.githubusercontent.com/86656625/222924801-4b6263e9-343e-47a4-852f-5bf36ee0f853.png)
 
 * The URL of the GitHub repository: https://github.com/LeeDillon/Professional-README-Generator
 
